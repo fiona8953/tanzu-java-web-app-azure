@@ -10,7 +10,7 @@ metadata:
     - web
     - tanzu
   annotations:
-    backstage.io/kubernetes-label-selector: 'app.kubernetes.io/part-of=tanzu-java-web-app-azure'
+    backstage.io/kubernetes-label-selector: 'app.kubernetes.io/part-of=tanzu-java-web-app'
     github.com/project-slug: fiona8953/tanzu-java-web-app-azure
 spec:
   type: service
