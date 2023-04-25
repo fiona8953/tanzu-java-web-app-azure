@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tanzu-java-web-app-azure
+  annotations:
+    github.com/project-slug: fiona8953/tanzu-java-web-app-azure
+spec:
+  type: other
+  lifecycle: unknown
+  owner: default-team
